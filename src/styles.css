@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #F3F6Fb
+}
+
+.card-header {
+    background-color: #FFF !important;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.modal {
+    background-color: rgba(0,0,0,0.5);
+}
